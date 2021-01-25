@@ -27,8 +27,8 @@ body{
 }
 
 .burger-menu-box{
-    height: 54px;
-    width: 54px;
+    height: 48px;
+    width: 48px;
 }
 
 .burger-menu{
@@ -117,8 +117,8 @@ body{
     }
     .burger-menu-box.mobile{
         display: block;
-        height: 30px;
-        width: 30px;
+        height: 42px;
+        width: 42px;
         margin-right: 10px;
     }
     .main-content{
